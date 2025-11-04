@@ -1,1 +1,4 @@
-body { font-family: sans-serif;font-size: medium; background-color:blue; } /* Otro cambio */ /* Muchas cosas */ /* Haz conflicto */
+body { 
+	font-family: sans-serif; 
+	background-color: red; 
+     }
